@@ -23,7 +23,7 @@ public static void main(String[] args) {
 // BEGIN: In the items array, hardcode the creation of one book, one DVD, and one consulting service 
  
 items[0] = new Book("The story of java",23);
-items[1] = new DVD("Lost Story", 20, "mistory");
+items[1] = new DVD("Lost Story", 20, "mystery");
 items[2] = new ConsultingService("Toms Talk", 90, 2);
 
 // END 
